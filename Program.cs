@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using OfficeOpenXml;
 
+
+//确保安装了 EPPlus 或 ClosedXML 库来读取 Excel 文件。在项目中，可以通过 NuGet 包管理器安装这些库。
 class Program
 {
     static void Main()
